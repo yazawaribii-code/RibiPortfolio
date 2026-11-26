@@ -1,0 +1,555 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/ZZZ-2-20261126-235307.webp",
+      "title": "VTuber-魔法少女莉比醬",
+      "desc": "曲繪插畫-Zzz"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/fix/01悠妮-Gw2RLzubIAAQWKP.jpg",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/Loopy02.webp",
+      "title": "VTuber-鮪魚小貓蛋餅",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/fix/03莓子熊-HHxLxWbbEAARlhw.jpg",
+      "title": "VTuber-莓子熊",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/Feituu01.webp",
+      "title": "VTuber-緋菟",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/fix/05緒莉亞-Gw2RLz1bAAAnmJW.jpg",
+      "title": "VTuber-緒莉亞",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/Licht.webp",
+      "title": "VTuber-莉希特",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/TootooPyon01.webp",
+      "title": "VTuber-兔兔ぴょんちゃん",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/ShinYuki01.webp",
+      "title": "VTuber-雪寶うさぎ",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/UniNeko01.webp",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/UniNeko04.webp",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/UniNeko03.webp",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/NanashiYuki02.webp",
+      "title": "VTuber-Nanashi Yuki",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/77.webp",
+      "title": "淺夏柒柒",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/Huanyu.webp",
+      "title": "VTuber-幻雨悠希",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/00.webp",
+      "title": "背後靈",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/UniNeko05.webp",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/Aiyu01.webp",
+      "title": "VTuber-菜心",
+      "desc": "精緻雙人頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/RIBI-Mineko.webp",
+      "title": "VTuber-Mineko",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/Guguru01.webp",
+      "title": "VTuber-咕咕嚕諾姆",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/TotoRei.webp",
+      "title": "VTuber-都兔零",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/Oda.webp",
+      "title": "VTuber-歐妲",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/nuonuo.webp",
+      "title": "其他委託",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/chami.webp",
+      "title": "VTuber-茶靡靡",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/Limi01.webp",
+      "title": "VTuber-黎汨Limi",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/7701.webp",
+      "title": "淺夏柒柒",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/Loopy03.webp",
+      "title": "VTuber-鮪魚小貓蛋餅",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/6mo.webp",
+      "title": "實況主-六茉",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/fix/U妮Q-G3hOBPYWwAEjtbU.jpg",
+      "title": "VTuber-悠妮涅可",
+      "desc": "Q版頭貼"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/Aya01.gif",
+      "title": "VTuber-采彩Aya",
+      "desc": "Q版插畫"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/Chibi_COMMISSION.jpg",
+      "title": "周邊設計",
+      "desc": "Q版飯友"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/fix/莉希特-GHLZJNyaQAAxqLV.jpg",
+      "title": "VTuber-莉希特",
+      "desc": "Q版"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/webp/sofia.webp",
+      "title": "VTuber-蘇菲蕥Sofia",
+      "desc": "Q版"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/webp/Liv.webp",
+      "title": "VTuber-莉芙嘉薇亞",
+      "desc": "Q版"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/webp/Licht--.webp",
+      "title": "VTuber-莉希特",
+      "desc": "Q版飯友"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/webp/nana_Q.webp",
+      "title": "Q版委託",
+      "desc": "Q版"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/Miyuki01.jpg",
+      "title": "VTuber-深雪みゆき",
+      "desc": "Q版"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/webp/tokikoi_Q.webp",
+      "title": "VTuber-莓芊時戀",
+      "desc": "Q版飯友"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/webp/tootoo_Q.webp",
+      "title": "VTuber-兔兔ぴょんちゃん",
+      "desc": "Q版"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/fix/16夜Q.jpg",
+      "title": "VTuber-十六夜 · 路希菲爾",
+      "desc": "Q版立繪"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/webp/Yuri_Q.webp",
+      "title": "Q版委託",
+      "desc": "Q版"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/fix/雙月Q.jpg",
+      "title": "網路作家-MOON²",
+      "desc": "Q版插畫"
+    },
+    {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/webp/Yu.webp",
+      "title": "Q版委託",
+      "desc": "Q版"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/VTubers.webp",
+      "title": "VTuber",
+      "desc": "角色設計"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/Aya.webp",
+      "title": "VTuber-采彩Aya",
+      "desc": "2.5形象角色設計"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/fix/無尾熊.jpg",
+      "title": "VTuber-無尾熊女孩",
+      "desc": "尚未售出/角色設計-合作建模：Minotaur"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/MepuruMyo.webp",
+      "title": "VTuber-楓糖渺",
+      "desc": "角色設計-合作建模：狼谷卯雪"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/tootooPyon01.webp",
+      "title": "VTuber-兔兔ぴょんちゃん",
+      "desc": "角色設計-合作建模：1.0-Minotaur／1.5-阿卡貓"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/Nato.webp",
+      "title": "VTuber-鈴木奈兔",
+      "desc": "4.0角色設計&建模"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/TotoRei.webp",
+      "title": "VTuber-都兔零",
+      "desc": "角色設計-建模師：YYL"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/Ribi.webp",
+      "title": "VTuber-魔法少女莉比醬",
+      "desc": "角色設計&建模"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/tootooPyon02.webp",
+      "title": "VTuber-兔兔ぴょんちゃん",
+      "desc": "角色設計-合作建模：阿卡貓"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/Feituu00.webp",
+      "title": "VTuber-緋菟",
+      "desc": "角色設計"
+    },
+    {
+      "cat": "vtuber",
+      "img": "portfolio/vtuber/webp/yuchen.webp",
+      "title": "瑀弦",
+      "desc": "角色卡設計",
+      "pos": "center 30%"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/Nanashi yuki.gif",
+      "title": "VTuber-Nanashi Yuki",
+      "desc": "曲繪插畫-飛雲之上"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/IchigoTokikoi.webp",
+      "title": "VTuber-莓芊時戀",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Apple01.webp",
+      "title": "VTuber-森花艾波",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Apple02.webp",
+      "title": "VTuber-森花艾波",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Aya.webp",
+      "title": "VTuber-采彩Aya",
+      "desc": "精緻插畫(待機插畫)"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Unineko03.webp",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/Enomu.gif",
+      "title": "VTuber-伊糯姆",
+      "desc": "精緻插畫(待機插畫)"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Guguru01.webp",
+      "title": "VTuber-咕咕嚕諾姆",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Guguru02.webp",
+      "title": "VTuber-咕咕嚕諾姆",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/GxUUrXFakAAvOcy.webp",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻插畫(待機動畫)-合作建模：阿卡貓",
+      "link": "https://x.com/i/status/1825106428471988559"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/GxUYGLCaIAAPsEs.webp",
+      "title": "VTuber-七音Clio",
+      "desc": "精緻插畫(待機插畫)"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/GxUYLcXaIAAn5YD.webp",
+      "title": "VTuber-莉希特",
+      "desc": "精緻插畫(待機動畫)-合作建模：阿卡貓",
+      "link": "https://x.com/i/status/1894684690059239467"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Loopy.webp",
+      "title": "VTuber-鮪魚小貓蛋餅",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Quokka.webp",
+      "title": "VTuber-珂卡",
+      "desc": "精緻插畫(待機動畫)-合作建模：Minotaur",
+      "youtube": "NwfXpw63aUU"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/ShinYuki.webp",
+      "title": "VTuber-雪寶うさぎ",
+      "desc": "精緻插畫(宣傳插畫)"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/SiQi.webp",
+      "title": "VTuber-司淇",
+      "desc": "精緻插畫(結尾插畫)"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Unineko01.webp",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/kurimu.webp",
+      "title": "VTuber-甜蜜の奶油",
+      "desc": "精緻插畫(待機插畫)"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/tootooPyon.webp",
+      "title": "VTuber-兔兔ぴょんちゃん",
+      "desc": "精緻插畫(宣傳插畫)"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/yumeno_kaoru02.webp",
+      "title": "VTuber-夢野薰草",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/fix/悠妮夏日-GvbPquGaYAAA5r6.jpg",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/fix/錒欣夏日.jpg",
+      "title": "VTuber-錒欣",
+      "desc": "精緻插畫",
+      "pos": "center 30%"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/fix/棉花糖99.jpg",
+      "title": "VTuber-棉花糖99",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Totorei02.webp",
+      "title": "VTuber-都兔零",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Kururun.webp",
+      "title": "VTuber-庫路路",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Miyuki.webp",
+      "title": "VTuber-深雪みゆき",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Unineko02.webp",
+      "title": "VTuber-悠妮涅可",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Ribi-Cover.webp",
+      "title": "VTuber-魔法少女莉比醬",
+      "desc": "曲繪插畫-ツインテール魔法少女"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/Totorei03.webp",
+      "title": "VTuber-都兔零",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/yuchen_.webp",
+      "title": "個人委託",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/nato01.webp",
+      "title": "VTuber-鈴木奈兔",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "stickers",
+      "img": "portfolio/stickers/Cry.png",
+      "title": "是在哭喔",
+      "desc": "模板 (吉祥物／人物)",
+      "notice": "notice-cry"
+    },
+    {
+      "cat": "stickers",
+      "img": "portfolio/stickers/Blueberry.png",
+      "title": "VTuber-藍莓起司",
+      "desc": "貼圖模板"
+    },
+    {
+      "cat": "stickers",
+      "img": "portfolio/stickers/NatoSS.png",
+      "title": "VTuber-鈴木奈兔",
+      "desc": "貼圖模板"
+    },
+    {
+      "cat": "stickers",
+      "img": "portfolio/stickers/ShinYukiSS.png",
+      "title": "VTuber-雪寶うさぎ",
+      "desc": "圖奇自介欄位",
+      "notice": "notice-shinyuki-intro"
+    },
+    {
+      "cat": "stickers",
+      "img": "portfolio/stickers/Discord Reactive.jpg",
+      "title": "DC跳跳模板",
+      "desc": "合作建模：阿卡貓",
+      "notice": "notice-dc",
+      "noticeBtn": true,
+      "link": "https://x.com/i/status/1791829120290340959"
+    }
+  ]
+}
