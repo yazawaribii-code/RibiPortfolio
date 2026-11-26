@@ -3,6 +3,12 @@
   "items": [
     {
       "cat": "illustration",
+      "img": "portfolio/illustration/webp/art-20261127-004401.webp",
+      "title": "VTuber-若祈",
+      "desc": "精緻插畫"
+    },
+    {
+      "cat": "illustration",
       "img": "portfolio/illustration/webp/ZZZ-2-20261126-235307.webp",
       "title": "VTuber-魔法少女莉比醬",
       "desc": "曲繪插畫-Zzz"
