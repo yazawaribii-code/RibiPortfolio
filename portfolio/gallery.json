@@ -2,6 +2,30 @@
   "version": 1,
   "items": [
     {
+      "cat": "chibi",
+      "img": "portfolio/Chibi/webp/tootoo_aiscream-20261127-122611.webp",
+      "title": "VTuber-兔兔ぴょんちゃん",
+      "desc": "Q版"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/kobayashi_Q-20261127-122616-1.webp",
+      "title": "VTuber-Kobayashi小林",
+      "desc": "Q版"
+    },
+    {
+      "cat": "Profile",
+      "img": "portfolio/Profile/webp/tootoo_surprise-20261127-122621-2.webp",
+      "title": "VTuber-兔兔ぴょんちゃん",
+      "desc": "驚喜包頭貼"
+    },
+    {
+      "cat": "illustration",
+      "img": "portfolio/illustration/webp/art-20261127-122625-3.webp",
+      "title": "VTuber-深雪みゆき",
+      "desc": "曲繪插畫-小さな恋のうた"
+    },
+    {
       "cat": "illustration",
       "img": "portfolio/illustration/webp/ZZZ-2-20261126-235307.webp",
       "title": "VTuber-魔法少女莉比醬",
